@@ -20,7 +20,7 @@ This program creates a copy of the game file that keeps track of mission progres
 
 Make sure KTANE is **closed**.
 
-Run the following shell command:
+Run the following shell commands:
 ```zsh
 % cd path/to/repository
 % source switchexpert.zsh "New Expert Name"
